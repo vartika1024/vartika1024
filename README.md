@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there, I'm <span style="color:#000">Abhiraj Chauhan</span>
+  Hey there, I'm <span style="color:#000">Vartika Bhaisare</span>
 </h1>
 
 <h3 align="center">
@@ -12,13 +12,11 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/abhiraj_code" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/abhiraj_code?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=#222" alt="Twitter" />
-  </a>
-  <a href="https://leetcode.com/abhirajchauhan/" target="_blank">
+
+  <a href="https://leetcode.com/u/vartikabhaisare/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
- <a href="https://mail.google.com/mail/?view=cm&to=abhirajchauhan972599@gmail.com" target="_blank">
+ <a href="https://mail.google.com/mail/?view=cm&to=vartikabhaisare7@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -36,10 +34,8 @@
 
 ###  Connect with Me
 <p align="center">
-  <a href="https://twitter.com/abhiraj_code" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" />
-  </a>
-  <a href="https://leetcode.com/abhirajchauhan/" target="_blank" style="margin: 0 10px;">
+
+  <a href="https://leetcode.com/u/vartikabhaisare/" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="35" />
   </a>
 </p>

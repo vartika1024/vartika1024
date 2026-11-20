@@ -73,9 +73,9 @@
 
 <p align="center">
   <!-- Left: Top Languages detailed card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj1027&layout=compact&theme=tokyonight&title_color=358FEF&bg_color=0d1117&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartika1024&layout=compact&theme=tokyonight&title_color=358FEF&bg_color=0d1117&hide_border=true" alt="Top Languages" width="49%" />
   <!-- Right: GitHub Stats detailed card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiraj1027&show_icons=true&theme=tokyonight&title_color=358FEF&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vartika1024&show_icons=true&theme=tokyonight&title_color=358FEF&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="49%" />
 </p>
 
 
